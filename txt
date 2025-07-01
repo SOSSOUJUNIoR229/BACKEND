@@ -1,0 +1,5 @@
+DB informations
+Username: natanaelsossou
+Password: D72O3KJ4IyEG1t0D
+
+mongodb+srv://natanaelsossou:D72O3KJ4IyEG1t0D@cluster0.nmmjnby.mongodb.net/
